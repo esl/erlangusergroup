@@ -1,4 +1,8 @@
-# Events 
+# erlangusergroup companion repository 
+
+https://www.meetup.com/erlangusergroup/
+
+## Show and tell 
 
 Wednesday, July 29, 2020
 
